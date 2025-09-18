@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Cainã Henrique!
+DESENVOLVEDOR BACK END
 
-**`Desenvolvedor Beck End**
 Meu nome é Cainã Henrique, tenho 20 anos e sou natural de Salvador-BA. Concluí o ensino médio no Colégio Celso Mendes. Sou apaixonado por tecnologia, focado em estudo prático de programação e empreendedorismo. Atualmente me dedico a aprender JavaScript e Python, e construir projetos voltados a  aplicações web, automação, negócios digitais. Busco oportunidades de colaboração e crescimento profissional na interseção entre código e negócios
 ---
 

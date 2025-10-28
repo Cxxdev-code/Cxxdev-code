@@ -26,18 +26,3 @@ Meu nome é Cainã Henrique, tenho 20 anos e sou natural de Salvador-BA. Conclu�
 
 <div style="clear: both;"></div>
 <br/>
-
-### Estatísticas
-
-<p align="center">
-    <img 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=Cxxdev-code&theme=tokyonight&show_icons=true" 
-    />
-    <img 
-        alt="GitHub Top Langs" 
-        height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cxxdev-code&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    />
-</p>

@@ -21,8 +21,10 @@ Meu nome é Cainã Henrique, tenho 20 anos e sou natural de Salvador-BA. Conclu�
     style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<br clear="left"/>
 <br/>
+<br/>
+
+<div style="clear: both;"></div>
 <br/>
 
 ### Estatísticas

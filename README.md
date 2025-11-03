@@ -1,9 +1,8 @@
-<h1 align="center">👋 Olá! Eu sou o Cainã Henrique</h1>
 <p align="center">
   <a href="https://github.com/Cxxdev-code" target="_blank">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2400&pause=900&repeat=true&center=true&vCenter=true&width=900&height=45&color=60A5FA&lines=Cainã+Henrique%3BPython+%26+Back+End+%E2%80%A2+APIs+REST%3BFlask+%E2%80%A2+Django+%E2%80%A2+MySQL+%E2%80%A2+Git%2FGitHub%3BProjetos%3A+Web%2C+Automação%2C+Negócios+Digitais"
-      alt="Cainã Henrique — tecnologias e projetos"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2400&pause=900&repeat=true&center=true&vCenter=true&width=900&height=45&color=60A5FA&lines=Cainã+Henrique%3BDesenvolvedor+Python+%7C+Back+End%3BAPIs+REST+%7C+Flask+%7C+Django%3BAutomação+e+Web+Scraping%3BNegócios+Digitais+%7C+Empreendedorismo"
+      alt="Cainã Henrique — tecnologias e foco"
     />
   </a>
 </p>

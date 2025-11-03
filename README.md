@@ -11,11 +11,11 @@
 <p align="center">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Cxxdev-code&style=flat-square&color=8b5cf6" />
   <img alt="Stack" src="https://img.shields.io/badge/foco-Python%20%7C%20Back%20End-0ea5e9?style=flat-square" />
-  <img alt="Learning" src="https://img.shields.io/badge/aprendendo-empreendedorismo-f59e0b?style=flat-square" />
+  <img alt="Learning" src="https://img.shields.io/badge/aprendendo-Python%20avançado-f59e0b?style=flat-square" />
 </p>
 <p align="center">
   <b>Desenvolvedor Back End</b><br/>
-  Focado em estudo prático de programação e empreendedorismo.
+  Focado em Estudo Prático de Programação e Regras de Negocios.
 </p>
 
 ---
@@ -23,7 +23,9 @@
 ## 🎯 Sobre Mim
 > Meu nome é **Cainã Henrique**, tenho 20 anos e sou natural de Salvador-BA. Sou **apaixonado por tecnologia**, focado em estudo prático de programação e empreendedorismo. Atualmente me dedico a aprender **Python**, e construir projetos voltados a aplicações web, automação, e **negócios digitais**. Busco oportunidades de **colaboração e crescimento profissional** na intersecção entre código e negócios.
 
-- 📍 **Local:** Salvador/BA
+- 📍 **Local:** Conde/BA
+- 📚 **Aprendendo:** POO avançado
+- 🏆 **Objetivo:** Ser o melhor dev do Brasil
 - 💡 **Filosofia:** "Busco oportunidades de colaboração e crescimento profissional na intersecção entre código e negócios."
 
 ---
@@ -50,12 +52,6 @@
 
 ---
 
-## 🚀 Certificações (Exemplo)
-<p align="center">
-  <a href="https://app.rocketseat.com.br/me/[SEU-SLUG-ID]"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=[SEU-SLUG-ID]&type=card" width="280" alt="ID de Certificação"/></a>
-</p>
-
----
 
 ## 🛠️ Stack
 <p>

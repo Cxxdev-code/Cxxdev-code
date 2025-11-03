@@ -64,17 +64,10 @@
 
 ## 🏆 Projetos em Destaque
 <details>
-  <summary><b>RPG_GAME.PY</b> • <a href="[LINK DO SEU REPOSITÓRIO DO RPG]">repositório</a></summary>
+  <summary><b>RPG_GAME.PY</b> • <a href="https://github.com/Cxxdev-code/python-rpg-game">repositório</a></summary>
   <br/>
-  Um projeto Python para simular um jogo de RPG (Preencha com a descrição real).  
-  <b>Status:</b> ✅ Concluído
-</details>
-
-<details>
-  <summary><b>Projeto Web com FastAPI</b> • <a href="[LINK DO SEU REPOSITÓRIO DO FASTAPI]">repositório</a></summary>
-  <br/>
-  (Exemplo: API RESTful desenvolvida com Python e FastAPI.)  
-  <b>Status:</b> 🟡 Em andamento / Concluído
+  Um projeto Python para simular um jogo de RPG (Utilizando: POO,Json).  
+  <b>Status:</b>  Em andamento
 </details>
 
 ---

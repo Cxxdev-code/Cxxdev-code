@@ -56,7 +56,7 @@
 ## 🛠️ Stack
 <p>
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,mysql,html,css,git,github,vscode&perline=8" alt="Stack: Python, FastAPI, MySQL, HTML, CSS, Git, GitHub, VS Code"/>
+    <img src="https://skillicons.dev/icons?i=py,mysql,html,css,git,github,vscode&perline=8" alt="Stack: Python , MySQL, HTML, CSS, Git, GitHub, VS Code"/>
   </a>
 </p>
 

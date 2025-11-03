@@ -1,11 +1,11 @@
+<h1 align="center">👋 Olá! Eu sou o Cainã Henrique</h1>
 <p align="center">
-  <a href="https://github.com/Cxxdev-code" target="_blank">
-     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2400&pause=900&repeat=true&center=true&vCenter=true&width=900&height=45&color=60A5FA&lines=Cainã+Henrique;Desenvolvedor+%26+Python+%E2%80%A2+MySQL;HTML+%E2%80%A2+Flask+%E2%80%A2+Django+%E2%80%A2+Git%2FGitHub;Projetos%3A+site-github+%7C+RPG-GAME+%7C"
-      alt="Arthur Ronaldo — tecnologias e projetos"
-      
-    />
-  </a>
+  <a href="https://github.com/Cxxdev-code" target="_blank">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2400&pause=900&repeat=true&center=true&vCenter=true&width=900&height=45&color=60A5FA&lines=Caina+Henrique%3BDesenvolvedor+Python+%E2%80%A2+MySQL%3BHTML+%E2%80%A2+CSS+%E2%80%A2+FastAPI+%E2%80%A2+Git%2FGitHub%3BProjetos%3A+RPG_GAME.PY+%7C+obrigado+pela+atencao"
+      alt="Cainã Henrique — tecnologias e projetos"
+    />
+  </a>
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@
 ## 🛠️ Stack
 <p>
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=py,flask,django,postgresql,mysql,git,github,vscode&perline=8" alt="Stack: Python, Flask, Django, PostgreSQL, MySQL, Git, GitHub, VS Code"/>
+    <img src="https://skillicons.dev/icons?i=py,fastapi,mysql,html,css,git,github,vscode&perline=8" alt="Stack: Python, FastAPI, MySQL, HTML, CSS, Git, GitHub, VS Code"/>
   </a>
 </p>
 
@@ -68,16 +68,16 @@
 
 ## 🏆 Projetos em Destaque
 <details>
-  <summary><b>Projeto 1 (Exemplo Back End)</b> • <a href="[LINK DO SEU REPOSITÓRIO]">repositório</a></summary>
+  <summary><b>RPG_GAME.PY</b> • <a href="[LINK DO SEU REPOSITÓRIO DO RPG]">repositório</a></summary>
   <br/>
-  Breve descrição do seu projeto de API em Python.  
-  <b>Status:</b> 🟡 Em andamento / Concluído
+  Um projeto Python para simular um jogo de RPG (Preencha com a descrição real).  
+  <b>Status:</b> ✅ Concluído
 </details>
 
 <details>
-  <summary><b>Projeto 2 (Exemplo Automação)</b> • <a href="[LINK DO SEU REPOSITÓRIO]">repositório</a></summary>
+  <summary><b>Projeto Web com FastAPI</b> • <a href="[LINK DO SEU REPOSITÓRIO DO FASTAPI]">repositório</a></summary>
   <br/>
-  Breve descrição do seu projeto de automação com Python.  
+  (Exemplo: API RESTful desenvolvida com Python e FastAPI.)  
   <b>Status:</b> 🟡 Em andamento / Concluído
 </details>
 
@@ -102,3 +102,7 @@
 </p>
 
 <p align="center">⭐ <i>"O código que você escreve hoje é o portfólio do seu amanhã."</i></p>
+
+---
+
+Fico à disposição se precisar de qualquer outro ajuste ou de ideias para outros projetos!

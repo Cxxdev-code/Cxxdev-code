@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/Cxxdev-code" target="_blank">
      <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2400&pause=900&repeat=true&center=true&vCenter=true&width=900&height=45&color=60A5FA&lines=Arthur+Ronaldo;Java+%26+Spring+Boot+%E2%80%A2+MySQL;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+Git%2FGitHub;Projetos%3A+site-github+%7C+roadmap-pessoal+%7C+java-poo-cursoemvideo"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2400&pause=900&repeat=true&center=true&vCenter=true&width=900&height=45&color=60A5FA&lines=Cainã+Henrique;Desenvolvedor+%26+Python+%E2%80%A2+MySQL;HTML+%E2%80%A2+Flask+%E2%80%A2+Django+%E2%80%A2+Git%2FGitHub;Projetos%3A+site-github+%7C+RPG-GAME+%7C"
       alt="Arthur Ronaldo — tecnologias e projetos"
       
     />

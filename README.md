@@ -40,12 +40,12 @@
 
 <br>
 
-<!-- LINGUAGENS -->
+
 <h3>🔮 Linguagens</h3>
 <table>
   <tr>
     <td align="center" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/Python-7D3C98?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"width="70"style="border: none;">
       <br><sub><b>Python</b></sub>
     </td>
   </tr>
@@ -53,7 +53,7 @@
 
 <br>
 
-<!-- FRAMEWORKS -->
+
 <h3>🌐 Frameworks</h3>
 <table>
   <tr>
@@ -74,7 +74,7 @@
 
 <br>
 
-<!-- FERRAMENTAS -->
+
 <h3>⚙ Ferramentas e Tecnologias</h3>
 <table>
   <tr>
@@ -94,9 +94,6 @@
 </table>
 
 </div>
-
-
-
 
 
 ## 🏆 Projetos em Destaque

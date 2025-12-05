@@ -30,30 +30,65 @@
 ---
 
 <div align="center" style="
-  padding: 20px;
-  border-radius: 15px;
-  background: url('https://i.imgur.com/eYfYkQF.gif') center/cover;
+  padding: 30px;
+  border-radius: 18px;
+  background: url('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJhbHc0d3g2NTA4cjVobHpnOXBjb3B1bXZvb3Y2Z2V3bjMycjE3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EcnVYotZzxtI8/giphy.gif') center/cover;
 ">
 
-<h2>🗺️ Linguagens e Tecnologias</h2>
-<h3>🎯 Principais Focos</h3>
-<i>Back-end · APIs · Automação · Web Apps</i>
+<h2>💻 Tecnologias</h2>
+<p><i>Organizado por Linguagens, Frameworks e Ferramentas</i></p>
 
-<br><br>
+<br>
 
+<!-- LINGUAGENS -->
+<h3>🔮 Linguagens</h3>
 <table>
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-      <br><sub><b>Linguagem Principal</b></sub>
+    <td align="center" style="padding: 10px;">
+      <img src="https://img.shields.io/badge/Python-7D3C98?style=for-the-badge&logo=python&logoColor=white"/>
+      <br><sub><b>Python</b></sub>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-      <br><sub><b>APIs & Web Apps</b></sub>
+  </tr>
+</table>
+
+<br>
+
+<!-- FRAMEWORKS -->
+<h3>🌐 Frameworks</h3>
+<table>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://img.shields.io/badge/Flask-5B2C6F?style=for-the-badge&logo=flask&logoColor=white"/>
+      <br><sub><b>Flask</b></sub>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-      <br><sub><b>Framework Completo</b></sub>
+    <td align="center" style="padding: 10px;">
+      <img src="https://img.shields.io/badge/FastAPI-512E5F?style=for-the-badge&logo=fastapi&logoColor=white"/>
+      <br><sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://img.shields.io/badge/Django-4A235A?style=for-the-badge&logo=django&logoColor=white"/>
+      <br><sub><b>Django</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- FERRAMENTAS -->
+<h3>⚙ Ferramentas e Tecnologias</h3>
+<table>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://img.shields.io/badge/Selenium-6C3483?style=for-the-badge&logo=selenium&logoColor=white"/>
+      <br><sub><b>Selenium</b></sub>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://img.shields.io/badge/MySQL-8E44AD?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <br><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://img.shields.io/badge/Git-9B59B6?style=for-the-badge&logo=git&logoColor=white"/>
+      <br><sub><b>Git</b></sub>
     </td>
   </tr>
 </table>
@@ -62,14 +97,7 @@
 
 
 
-## 🛠️ Stack
-<p>
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=py,mysql,html,css,git,github,vscode&perline=8" alt="Stack: Python , MySQL, HTML, CSS, Git, GitHub, VS Code"/>
-  </a>
-</p>
 
----
 
 ## 🏆 Projetos em Destaque
 <details>

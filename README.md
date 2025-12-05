@@ -29,27 +29,50 @@
 
 ---
 
-## 🗺️ Linguagens e Tecnologias
+<div style="
+  padding: 25px;
+  border-radius: 18px;
+  background: linear-gradient(145deg, #0e0e0e, #1a1a1a);
+  animation: pulseBorder 2.5s infinite alternate;
+  box-shadow: 0 0 10px #0077ff;
+">
+
+<h2 align="center">🗺️ Linguagens e Tecnologias</h2>
+
+<h3 align="center">🎯 Principais Focos</h3>
+
+<p align="center"><i>Back-end · APIs · Automação · Web Apps</i></p>
+
 <table align="center">
-  <tr>
-    <td>
-      <h3 align="center">Principais Focos</h3>
-      <p align="center">
-        <a href="https://github.com/Cxxdev-code" target="_blank">
-          <img alt="Abrir Roadmap" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        </a>
-        <a href="https://github.com/Cxxdev-code" target="_blank">
-          <img alt="Abrir Roadmap" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-        </a>
-        <a href="https://github.com/Cxxdev-code" target="_blank">
-          <img alt="Abrir Roadmap" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <br>
+      <sub><strong>Linguagem Principal</strong></sub>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+      <br>
+      <sub><strong>APIs & Web Apps</strong></sub>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+      <br>
+      <sub><strong>Framework Completo</strong></sub>
+    </td>
+  </tr>
 </table>
 
----
+</div>
+
+
+<style>
+@keyframes pulseBorder {
+  from { box-shadow: 0 0 10px #0066ff; }
+  to   { box-shadow: 0 0 25px #00ccff; }
+}
+</style>
+
 
 
 ## 🛠️ Stack

@@ -11,7 +11,7 @@
 <p align="center">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Cxxdev-code&style=flat-square&color=8b5cf6" />
   <img alt="Stack" src="https://img.shields.io/badge/foco-Python%20%7C%20Back%20End-0ea5e9?style=flat-square" />
-  <img alt="Learning" src="https://img.shields.io/badge/aprendendo-Python%20avançado-f59e0b?style=flat-square" />
+  <img alt="Learning" src="https://img.shields.io/badge/aprendendo-Bancos%20de%20dados-f59e0b?style=flat-square" />
 </p>
 <p align="center">
   <b>Desenvolvedor Back End</b><br/>

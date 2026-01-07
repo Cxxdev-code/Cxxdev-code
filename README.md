@@ -24,7 +24,7 @@
 ## 🎯 Sobre Mim
 > Meu nome é **Cainã Henrique**, tenho 20 anos e sou natural de Salvador-BA. Sou **apaixonado por tecnologia**, focado em estudo prático de programação e empreendedorismo. Atualmente me dedico a aprender **Python**, e construir projetos voltados a aplicações web, automação, e **negócios digitais**. Busco oportunidades de **colaboração e crescimento profissional** na intersecção entre código e negócios.
 
-- 📍 **Local:** Conde/BA
+- 📍 **Local:** Salvador/BA
 - 🏆 **Objetivo:** “Evoluir todos os dias como desenvolvedor, transformando desafios em aprendizado e aprendizado em resultados.”
 - 💡 **Filosofia:** “Desenvolver não é escrever código, é transformar caos em lógica.”
 

@@ -115,18 +115,6 @@
 
 ---
 
-## 📈 Estatísticas
-<p align="center">
-  <a href="https://github.com/Cxxdev-code">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Cxxdev-code&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/Cxxdev-code">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cxxdev-code&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=8" />
-  </a>
-</p>
-
----
-
 ## 📞 Contato
 <p align="center">
   <a href="[LINK DO SEU LINKEDIN]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>

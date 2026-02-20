@@ -36,63 +36,20 @@
   background: url('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJhbHc0d3g2NTA4cjVobHpnOXBjb3B1bXZvb3Y2Z2V3bjMycjE3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EcnVYotZzxtI8/giphy.gif') center/cover;
 ">
 
-<h2>💻 Tecnologias</h2>
-<p><i>Organizado por Linguagens, Frameworks e Ferramentas</i></p>
+## 💻 Tecnologias
 
-<br>
+**Linguagens:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
+**Frameworks:**  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
-<h3>🔮 Linguagens</h3>
-<table>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"width="70"style="border: none;">
-      <br><sub><b>Python</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-
-<h3>🌐 Frameworks</h3>
-<table>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/Flask-5B2C6F?style=for-the-badge&logo=flask&logoColor=white"/>
-      <br><sub><b>Flask</b></sub>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/FastAPI-512E5F?style=for-the-badge&logo=fastapi&logoColor=white"/>
-      <br><sub><b>FastAPI</b></sub>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/Django-4A235A?style=for-the-badge&logo=django&logoColor=white"/>
-      <br><sub><b>Django</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-
-<h3>⚙ Ferramentas e Tecnologias</h3>
-<table>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/Selenium-6C3483?style=for-the-badge&logo=selenium&logoColor=white"/>
-      <br><sub><b>Selenium</b></sub>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/MySQL-8E44AD?style=for-the-badge&logo=mysql&logoColor=white"/>
-      <br><sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/Git-9B59B6?style=for-the-badge&logo=git&logoColor=white"/>
-      <br><sub><b>Git</b></sub>
-    </td>
-  </tr>
-</table>
+**Ferramentas:**  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 </div>
 

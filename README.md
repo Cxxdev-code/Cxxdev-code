@@ -36,13 +36,28 @@
   background: url('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJhbHc0d3g2NTA4cjVobHpnOXBjb3B1bXZvb3Y2Z2V3bjMycjE3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EcnVYotZzxtI8/giphy.gif') center/cover;
 ">
 
-## 🚀 Stack Principal
+<h2 align="center">🚀 Stack & Conceitos</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,mysql,git"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git"/>
 </p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyAutoGUI-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebScraping-4B0082?style=flat"/>
+  <img src="https://img.shields.io/badge/Bots-AI%20Automation-6A1B9A"/>
+</p>
+
+---
+
+### 🧠 Conceitos
+
+<p>
+  <img src="https://img.shields.io/badge/OOP-Programação%20Orientada%20a%20Objetos-0A192F"/>
+  <img src="https://img.shields.io/badge/Clean%20Code-Boas%20Práticas-1E5128"/>
+</p>
 
 
 ## 🏆 Projetos em Destaque

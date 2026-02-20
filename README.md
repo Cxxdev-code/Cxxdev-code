@@ -62,21 +62,29 @@
 
 ## 🏆 Projetos em Destaque
 
+---
 
-  <summary><b>RPG_GAME.PY</b> • <a href="https://github.com/Cxxdev-code/python-rpg-game">repositório</a></summary>
-  Um projeto Python para simular um jogo de RPG (com foco em treinar POO).
-  <br/>
-  <b>Status:</b> Em andamento
+### 🎮 RPG Game (POO)
+🔗 <a href="https://github.com/Cxxdev-code/python-rpg-game">Ver repositório</a>
 
+Simulação de jogo em Python com foco em **Programação Orientada a Objetos**, aplicando conceitos como:
+- Classes e herança
+- Encapsulamento
+- Organização modular
 
-
-  <summary><b>MONITORAMENTO_DE_VAGAS</b> • <a href="https://github.com/Cxxdev-code/monitoramento_de_vagas">repositório</a></summary>
-  Sistema de monitoramento automatizado de vagas utilizando Python, com coleta de dados, tratamento de informações e envio de notificações.
-  <br/>
-  <b>Status:</b> Em desenvolvimento
-
+**Status:** 🚧 Em andamento  
 
 ---
+
+### 🤖 Monitoramento de Vagas
+🔗 <a href="https://github.com/Cxxdev-code/monitoramento_de_vagas">Ver repositório</a>
+
+Sistema automatizado para monitoramento de vagas utilizando Python, com:
+- Web scraping
+- Tratamento e organização de dados
+- Envio de notificações automáticas
+
+**Status:** 🚧 Em desenvolvimento
 
 ## 📞 Contato
 <p align="center">
@@ -88,4 +96,4 @@
 
 ---
 
-Fico à disposição se precisar de qualquer outro ajuste ou de ideias para outros projetos!
+

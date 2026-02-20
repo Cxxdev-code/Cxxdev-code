@@ -64,25 +64,32 @@
 
 ---
 
-### 🎮 RPG Game (POO)
-🔗 <a href="https://github.com/Cxxdev-code/python-rpg-game">Ver repositório</a>
+### 🎮 RPG Game
+🔗 <a href="https://github.com/Cxxdev-code/python-rpg-game">Repositório</a>
 
-Simulação de jogo em Python com foco em **Programação Orientada a Objetos**, aplicando conceitos como:
-- Classes e herança
-- Encapsulamento
-- Organização modular
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OOP-Programação%20Orientada%20a%20Objetos-0A192F"/>
+  <img src="https://img.shields.io/badge/Clean%20Code-Boas%20Práticas-1E5128"/>
+</p>
+
+Simulação de jogo em Python focada na aplicação prática de conceitos de POO e organização de código.
 
 **Status:** 🚧 Em andamento  
 
 ---
 
 ### 🤖 Monitoramento de Vagas
-🔗 <a href="https://github.com/Cxxdev-code/monitoramento_de_vagas">Ver repositório</a>
+🔗 <a href="https://github.com/Cxxdev-code/monitoramento_de_vagas">Repositório</a>
 
-Sistema automatizado para monitoramento de vagas utilizando Python, com:
-- Web scraping
-- Tratamento e organização de dados
-- Envio de notificações automáticas
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebScraping-Data%20Extraction-4B0082"/>
+  <img src="https://img.shields.io/badge/Bots-Automação-6A1B9A"/>
+</p>
+
+Sistema automatizado para monitoramento de vagas com coleta de dados, tratamento de informações e envio de notificações.
 
 **Status:** 🚧 Em desenvolvimento
 

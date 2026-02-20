@@ -36,20 +36,11 @@
   background: url('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJhbHc0d3g2NTA4cjVobHpnOXBjb3B1bXZvb3Y2Z2V3bjMycjE3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EcnVYotZzxtI8/giphy.gif') center/cover;
 ">
 
-## 💻 Tecnologias
+## 🚀 Stack Principal
 
-**Linguagens:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**Frameworks:**  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-**Ferramentas:**  
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,mysql,git"/>
+</p>
 
 </div>
 

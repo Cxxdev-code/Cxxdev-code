@@ -87,11 +87,29 @@ Simulação de jogo em Python focada na aplicação prática de conceitos de POO
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebScraping-Data%20Extraction-4B0082"/>
   <img src="https://img.shields.io/badge/Bots-Automação-6A1B9A"/>
+  <img src="https://img.shields.io/badge/Clean%20Code-Boas%20Práticas-1E5128"/>
 </p>
 
 Sistema automatizado para monitoramento de vagas com coleta de dados, tratamento de informações e envio de notificações.
 
 **Status:** 🚧 Em desenvolvimento
+
+---
+
+### ⏱️ APP Study - Gestão de Foco
+🔗 <a href="https://github.com/Cxxdev-code/APP_Study">Repositório</a>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CustomTkinter-Modern%20UI-24292e"/>
+  <img src="https://img.shields.io/badge/Matplotlib-Data%20Viz-ffffff?logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OOP-Programação%20Orientada%20a%20Objetos-0A192F"/>
+</p>
+
+Aplicativo desktop para gerenciamento de tempo de estudo com cronômetro integrado e análise de performance através de gráficos dinâmicos com escalas inteligentes.
+
+**Status:** ✅ Concluído / Em Melhoria
 
 ## 📞 Contato
 <p align="center">

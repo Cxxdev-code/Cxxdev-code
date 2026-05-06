@@ -24,7 +24,7 @@
 Sou **Cainã Henrique**, desenvolvedor de 20 anos de **Salvador, BA**, apaixonado por criar soluções que resolvem problemas reais através da programação.
 
 Meu foco está em:
-- 💻 **Desenvolviment Back End** com Python
+- 💻 **Desenvolvimento Back End** com Python
 - 🤖 **Automação de Processos** e Web Scraping
 - 📊 **Processamento de Dados** em tempo real
 - 🚀 **Desenvolvimento Prático** com aplicação imediata
@@ -62,83 +62,76 @@ Meu foco está em:
 
 ## 🏆 Projetos em Destaque
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎮 RPG Game</h3>
-      <p><b>Simulação interativa de RPG em Python</b></p>
-      <p>Demonstração prática de conceitos avançados de POO, gerenciamento de estado de jogo e arquitetura limpa.</p>
-      
-      **Tecnologias:**
-      - Python 3
-      - Programação Orientada a Objetos
-      - Persistência em JSON
-      
-      **Destaques:**
-      ✅ Arquitetura profissional  
-      ✅ Herança e polimorfismo  
-      ✅ Sistema de saveload  
-      
-      🔗 [Ver Repositório](https://github.com/Cxxdev-code/RPG_Game)
-    </td>
-    <td width="50%">
-      <h3>🤖 Monitoramento de Vagas</h3>
-      <p><b>Sistema automatizado de prospecção de vagas</b></p>
-      <p>Automação completa com web scraping, processamento de dados e notificações em tempo real.</p>
-      
-      **Tecnologias:**
-      - Selenium (Headless)
-      - BeautifulSoup
-      - Discord/Telegram APIs
-      - SQLite
-      
-      **Destaques:**
-      ✅ Automação headless  
-      ✅ Notificações automáticas  
-      ✅ Dados em tempo real  
-      
-      🔗 [Ver Repositório](https://github.com/Cxxdev-code/monitoramento_de_vagas)
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>⏱️ APP Study - Gestão de Foco</h3>
-      <p><b>Aplicativo desktop para gerenciamento de tempo</b></p>
-      <p>Ferramenta completa com cronômetro, análise de performance e visualização de dados com gráficos.</p>
-      
-      **Tecnologias:**
-      - CustomTkinter (UI moderna)
-      - Matplotlib (Visualização)
-      - SQLite (Persistência)
-      - Python
-      
-      **Destaques:**
-      ✅ Interface moderna  
-      ✅ Gráficos dinâmicos  
-      ✅ Análise de performance  
-      
-      🔗 [Ver Repositório](https://github.com/Cxxdev-code/APP_Study)
-    </td>
-    <td width="50%">
-      <h3>🌦️ Webscraper - Dados Climáticos</h3>
-      <p><b>Coleta de dados climáticos em tempo real</b></p>
-      <p>Aplicação que integra web scraping com APIs internas para fornecer informações meteorológicas.</p>
-      
-      **Tecnologias:**
-      - Web Scraping
-      - APIs (Consumo)
-      - BeautifulSoup
-      - Tratamento de dados
-      
-      **Destaques:**
-      ✅ APIs integradas  
-      ✅ Tratamento de erros  
-      ✅ Dados estruturados  
-      
-      🔗 [Ver Repositório](https://github.com/Cxxdev-code/Webscraper_.py)
-    </td>
-  </tr>
-</table>
+### 🎮 RPG Game
+> **Simulação interativa de RPG em Python** 
+>> Demonstração prática de conceitos avançados de POO, gerenciamento de estado de jogo e arquitetura limpa.
+
+<div align="center">
+
+| Tecnologias | Destaques |
+|:---:|:---:|
+| `Python 3` | ✅ Arquitetura profissional |
+| `OOP` | ✅ Herança e polimorfismo |
+| `JSON` | ✅ Sistema de saveload |
+
+[🔗 Ver Repositório](https://github.com/Cxxdev-code/RPG_Game) • [📂 Código](https://github.com/Cxxdev-code/RPG_Game)
+
+</div>
+
+---
+
+### 🤖 Monitoramento de Vagas
+> **Sistema automatizado de prospecção de vagas**
+>> Automação completa com web scraping, processamento de dados e notificações em tempo real.
+
+<div align="center">
+
+| Tecnologias | Destaques |
+|:---:|:---:|
+| `Selenium` | ✅ Automação headless |
+| `BeautifulSoup` | ✅ Notificações automáticas |
+| `Discord/Telegram API` | ✅ Dados em tempo real |
+| `SQLite` | |
+
+[🔗 Ver Repositório](https://github.com/Cxxdev-code/monitoramento_de_vagas) • [📂 Código](https://github.com/Cxxdev-code/monitoramento_de_vagas)
+
+</div>
+
+---
+
+### ⏱️ APP Study - Gestão de Foco
+> **Aplicativo desktop para gerenciamento de tempo**
+>> Ferramenta completa com cronômetro, análise de performance e visualização de dados com gráficos.
+
+<div align="center">
+
+| Tecnologias | Destaques |
+|:---:|:---:|
+| `CustomTkinter` | ✅ Interface moderna |
+| `Matplotlib` | ✅ Gráficos dinâmicos |
+| `SQLite` | ✅ Análise de performance |
+
+[🔗 Ver Repositório](https://github.com/Cxxdev-code/APP_Study) • [📂 Código](https://github.com/Cxxdev-code/APP_Study)
+
+</div>
+
+---
+
+### 🌦️ Webscraper - Dados Climáticos
+> **Coleta de dados climáticos em tempo real**
+>> Aplicação que integra web scraping com APIs internas para fornecer informações meteorológicas.
+
+<div align="center">
+
+| Tecnologias | Destaques |
+|:---:|:---:|
+| `BeautifulSoup` | ✅ Web Scraping |
+| `APIs` | ✅ Integração com APIs |
+| `Requests` | ✅ Tratamento de dados |
+
+[🔗 Ver Repositório](https://github.com/Cxxdev-code/Webscraper_.py) • [📂 Código](https://github.com/Cxxdev-code/Webscraper_.py)
+
+</div>
 
 ---
 
@@ -198,10 +191,9 @@ Meu foco está em:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caina-henrique/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cxxdev-code)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-twitter)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cxxpdev@gmail.com)
 
 </div>
 

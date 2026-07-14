@@ -57,12 +57,7 @@
   <br>
 
   <h2 align="center">Python</h2>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyAutoGUI-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web_Scraping-4B0082?style=flat"/>
-  <img src="https://img.shields.io/badge/RPA-6A1B9A?style=flat"/>
-
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/PyAutoGUI-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white"/> <img src="https://img.shields.io/badge/Web_Scraping-4B0082?style=flat"/> <img src="https://img.shields.io/badge/Automation-6A1B9A?style=flat"/>
 </p>
 
 ---

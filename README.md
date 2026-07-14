@@ -84,32 +84,6 @@
 
 </p>
 
-# 🏆 Projetos em Destaque
-
----
-
-## 📚 Biblioteca API
-
-🔗 <a href="https://github.com/Cxxdev-code/biblioteca-api">Repositório</a>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-00599C?style=flat"/>
-<img src="https://img.shields.io/badge/JPA-Hibernate-59666C?style=flat"/>
-<img src="https://img.shields.io/badge/Bean_Validation-E65100?style=flat"/>
-<img src="https://img.shields.io/badge/H2_Database-0E83CD?style=flat"/>
-
-</p>
-
-API REST desenvolvida em Spring Boot para gerenciamento de biblioteca, seguindo arquitetura em camadas (Controller, Service e Repository), utilizando DTOs, Bean Validation e banco de dados H2. O projeto tem como objetivo consolidar boas práticas de desenvolvimento Back-End.
-
-**Status:** 🚧 Em desenvolvimento
-
----
-
 ## ☕ RPG Java
 
 🔗 <a href="https://github.com/Cxxdev-code/rpg-java">Repositório</a>

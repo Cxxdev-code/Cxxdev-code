@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/Cxxdev-code" target="_blank">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2400&pause=900&repeat=true&center=true&vCenter=true&width=1200&height=45&color=60A5FA&lines=%E2%80%A2+Desenvolvedor+BackEnd+%E2%80%A2%3B+API+%E2%80%A2+Automation+%E2%80%A2+Dados+%E2%80%A2+Git%3B+obrigado+pela+atencao"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2400&pause=900&repeat=true&center=true&vCenter=true&width=1200&height=45&color=60A5FA&lines=%E2%80%A2+Desenvolvedor+Back+End+%E2%80%A2%3B+API+%E2%80%A2+Automation+%E2%80%A2+Dados+%E2%80%A2+Git%3B+obrigado+pela+atencao"
       alt="Cainã Henrique — tecnologias e projetos"
     />
   </a>
@@ -12,11 +12,10 @@
 <p align="center">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Cxxdev-code&style=flat-square&color=8b5cf6" />
   <img alt="Stack" src="https://img.shields.io/badge/foco%20%7C%20Back%20End-0ea5e9?style=flat-square" />
-  <img alt="Learning" src="https://img.shields.io/badge/aprendendo-Bancos%20de%20dados-f59e0b?style=flat-square" />
 </p>
 <p align="center">
   <b>Desenvolvedor Back End</b><br/>
-  Focado em Estudo Prático de Programação e Regras de Negocios.
+  Focado em estrutura de desenvolvimetos e Regras de Negocios.
 </p>
 
 ---

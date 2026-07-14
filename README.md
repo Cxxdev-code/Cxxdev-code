@@ -84,63 +84,132 @@
 
 </p>
 
-## 🏆 Projetos em Destaque
+# 🏆 Projetos em Destaque
 
 ---
 
-### 🎮 RPG Game
-🔗 <a href="https://github.com/Cxxdev-code/python-rpg-game">Repositório</a>
+## 📚 Biblioteca API
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OOP-Programação%20Orientada%20a%20Objetos-0A192F"/>
-  <img src="https://img.shields.io/badge/Clean%20Code-Boas%20Práticas-1E5128"/>
+🔗 <a href="https://github.com/Cxxdev-code/biblioteca-api">Repositório</a>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-00599C?style=flat"/>
+<img src="https://img.shields.io/badge/JPA-Hibernate-59666C?style=flat"/>
+<img src="https://img.shields.io/badge/Bean_Validation-E65100?style=flat"/>
+<img src="https://img.shields.io/badge/H2_Database-0E83CD?style=flat"/>
+
 </p>
 
-Simulação de jogo em Python focada na aplicação prática de conceitos de POO e organização de código.
-
-**Status:** 🚧 Em andamento  
-
----
-
-### 🤖 Monitoramento de Vagas
-🔗 <a href="https://github.com/Cxxdev-code/monitoramento_de_vagas">Repositório</a>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebScraping-Data%20Extraction-4B0082"/>
-  <img src="https://img.shields.io/badge/Bots-Automação-6A1B9A"/>
-  <img src="https://img.shields.io/badge/Clean%20Code-Boas%20Práticas-1E5128"/>
-</p>
-
-Sistema automatizado para monitoramento de vagas com coleta de dados, tratamento de informações e envio de notificações.
+API REST desenvolvida em Spring Boot para gerenciamento de biblioteca, seguindo arquitetura em camadas (Controller, Service e Repository), utilizando DTOs, Bean Validation e banco de dados H2. O projeto tem como objetivo consolidar boas práticas de desenvolvimento Back-End.
 
 **Status:** 🚧 Em desenvolvimento
 
 ---
 
-### ⏱️ APP Study - Gestão de Foco
-🔗 <a href="https://github.com/Cxxdev-code/APP_Study">Repositório</a>
+## ☕ RPG Java
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CustomTkinter-Modern%20UI-24292e"/>
-  <img src="https://img.shields.io/badge/Matplotlib-Data%20Viz-ffffff?logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OOP-Programação%20Orientada%20a%20Objetos-0A192F"/>
-</p>
+🔗 <a href="https://github.com/Cxxdev-code/rpg-java">Repositório</a>
 
-Aplicativo desktop para gerenciamento de tempo de estudo com cronômetro integrado e análise de performance através de gráficos dinâmicos com escalas inteligentes.
-
-**Status:** ✅ Concluído / Em Melhoria
-
-## 📞 Contato
 <p align="center">
-  <a href="[LINK DO SEU LINKEDIN]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Cxxdev-code"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOP-Programação%20Orientada%20a%20Objetos-0A192F"/>
+<img src="https://img.shields.io/badge/Clean_Code-Boas_Práticas-1E5128"/>
+
 </p>
 
-<p align="center">⭐ <i>"O código que você escreve hoje é o portfólio do seu amanhã."</i></p>
+Projeto desenvolvido em Java com foco na aplicação prática de Programação Orientada a Objetos, encapsulamento, herança, polimorfismo e organização de código para simulação de um RPG baseado em turnos.
+
+**Status:** 🚧 Em desenvolvimento
 
 ---
+
+## 🤖 Monitoramento de Vagas
+
+🔗 <a href="https://github.com/Cxxdev-code/monitoramento_de_vagas">Repositório</a>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web_Scraping-4B0082?style=flat"/>
+<img src="https://img.shields.io/badge/Automation-6A1B9A?style=flat"/>
+<img src="https://img.shields.io/badge/Python_Bots-3776AB?style=flat"/>
+
+</p>
+
+Sistema automatizado para monitoramento de vagas, realizando coleta, tratamento e organização de dados, além do envio automático de notificações para agilizar o acompanhamento de novas oportunidades.
+
+**Status:** 🚧 Em desenvolvimento
+
+---
+
+## ⏱️ APP Study
+
+🔗 <a href="https://github.com/Cxxdev-code/APP_Study">Repositório</a>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/CustomTkinter-Modern_UI-24292e"/>
+<img src="https://img.shields.io/badge/SQLite-Database-003B57?style=flat&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-Data_Visualization-11557C?style=flat"/>
+<img src="https://img.shields.io/badge/OOP-Programação%20Orientada%20a%20Objetos-0A192F"/>
+
+</p>
+
+Aplicação desktop para gerenciamento de tempo de estudo, com cronômetro integrado, armazenamento de sessões e visualização da evolução através de gráficos e métricas de desempenho.
+
+**Status:** ✅ Concluído • Em melhorias
+
+---
+
+## 🎮 RPG Python
+
+🔗 <a href="https://github.com/Cxxdev-code/python-rpg-game">Repositório</a>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOP-Programação%20Orientada%20a%20Objetos-0A192F"/>
+<img src="https://img.shields.io/badge/Clean_Code-Boas_Práticas-1E5128"/>
+
+</p>
+
+Projeto desenvolvido em Python para consolidar conhecimentos em Programação Orientada a Objetos através da implementação de um sistema de RPG com foco em modelagem de classes e organização do código.
+
+**Status:** 🚧 Em desenvolvimento
+
+---
+
+# 📞 Contato
+
+<p align="center">
+
+<a href="[SEU_LINKEDIN](https://www.linkedin.com/in/caina-henrique/)">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Cxxdev-code">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+⭐ <i>"O código que você escreve hoje constrói as oportunidades de amanhã."</i>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A1AFF&height=120&section=footer"/>
+```
+

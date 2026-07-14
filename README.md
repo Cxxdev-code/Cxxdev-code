@@ -120,10 +120,11 @@ API REST desenvolvida em Spring Boot para gerenciamento de biblioteca, seguindo 
 <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white"/>
 <img src="https://img.shields.io/badge/OOP-Programação%20Orientada%20a%20Objetos-0A192F"/>
 <img src="https://img.shields.io/badge/Clean_Code-Boas_Práticas-1E5128"/>
+<img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat&logo=junit5&logoColor=white"/>
 
 </p>
 
-Projeto desenvolvido em Java com foco na aplicação prática de Programação Orientada a Objetos, encapsulamento, herança, polimorfismo e organização de código para simulação de um RPG baseado em turnos.
+Projeto desenvolvido em Java com foco na aplicação prática de Programação Orientada a Objetos, encapsulamento, herança, polimorfismo e testes unitarios.Organização de código para simulação de um RPG baseado em turnos.
 
 **Status:** 🚧 Em desenvolvimento
 

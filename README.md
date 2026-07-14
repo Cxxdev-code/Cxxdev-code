@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/Cxxdev-code" target="_blank">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2400&pause=900&repeat=true&center=true&vCenter=true&width=1200&height=45&color=60A5FA&lines=%E2%80%A2+Desenvolvedor+Python+%E2%80%A2%3B+altomation+%E2%80%A2+Webscraping+%E2%80%A2+API+%E2%80%A2+Git%3B+obrigado+pela+atencao"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2400&pause=900&repeat=true&center=true&vCenter=true&width=1200&height=45&color=60A5FA&lines=%E2%80%A2+Desenvolvedor+BackEnd+%E2%80%A2%3B+API+%E2%80%A2+Automation+%E2%80%A2+Dados+%E2%80%A2+Git%3B+obrigado+pela+atencao"
       alt="Cainã Henrique — tecnologias e projetos"
     />
   </a>

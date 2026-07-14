@@ -84,6 +84,10 @@
 
 </p>
 
+---
+
+# 🏆 Projetos em Destaque
+
 ## ☕ RPG Java
 
 🔗 <a href="https://github.com/Cxxdev-code/rpg-java">Repositório</a>

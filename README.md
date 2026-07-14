@@ -35,29 +35,59 @@
   background: url('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJhbHc0d3g2NTA4cjVobHpnOXBjb3B1bXZvb3Y2Z2V3bjMycjE3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EcnVYotZzxtI8/giphy.gif') center/cover;
 ">
 
-<h2 align="center">🚀 Stack & Conceitos</h2>
+<h2 align="center">🚀 Stacks</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,python,mysql,postgres,docker,git,github,postman,idea"/>
 </p>
 
+<h2 align="center">⚙️ Frameworks & Tecnologias</h2>
+
 <p align="center">
+
+  <h2 align="center"> Java</h2>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-Hibernate-59666C?style=flat"/>
+  <img src="https://img.shields.io/badge/Lombok-BC4521?style=flat"/>
+  <img src="https://img.shields.io/badge/Bean_Validation-E65100?style=flat"/>
+  <img src="https://img.shields.io/badge/REST_API-00599C?style=flat"/>
+
+  <br>
+
+  <h2 align="center">Python</h2>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyAutoGUI-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebScraping-4B0082?style=flat"/>
-  <img src="https://img.shields.io/badge/Bots-AI%20Automation-6A1B9A"/>
+  <img src="https://img.shields.io/badge/Web_Scraping-4B0082?style=flat"/>
+  <img src="https://img.shields.io/badge/RPA-6A1B9A?style=flat"/>
+
 </p>
 
 ---
 
 ### 🧠 Conceitos
 
-<p>
-  <img src="https://img.shields.io/badge/OOP-Programação%20Orientada%20a%20Objetos-0A192F"/>
-  <img src="https://img.shields.io/badge/Clean%20Code-Boas%20Práticas-1E5128"/>
-</p>
+<p align="center">
 
+  <img src="https://img.shields.io/badge/OOP-Programação_Orientada_a_Objetos-0A192F"/>
+
+  <img src="https://img.shields.io/badge/SOLID-Princípios-2E8B57"/>
+
+  <img src="https://img.shields.io/badge/Clean_Code-Boas_Práticas-1E5128"/>
+
+  <img src="https://img.shields.io/badge/REST-API-00599C"/>
+
+  <img src="https://img.shields.io/badge/Arquitetura-em_Camadas-7E57C2"/>
+
+  <img src="https://img.shields.io/badge/DTO-Padrão-5E35B1"/>
+
+  <img src="https://img.shields.io/badge/MVC-Arquitetura-1565C0"/>
+
+  <img src="https://img.shields.io/badge/Git-Versionamento-F05032"/>
+
+</p>
 
 ## 🏆 Projetos em Destaque
 
